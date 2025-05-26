@@ -1,5 +1,3 @@
--- Made in ChatGPT and Woops
-
 const express = require('express');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
